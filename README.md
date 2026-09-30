@@ -5,8 +5,7 @@ A large-scale exploratory and statistical analysis of the **CMS Open Payments da
 The project investigates payment distributions, categorical relationships, temporal trends, geographic concentration, statistical associations, hypotheses, and the robustness of the observed findings.
 
 ---
-![Image alt](https://github.com/kvivek00/Exploratory-Data-Analysis-Cms-Open-Payments/blob/38e4293b206ebb4a9c705d3aab6d6b91b94983ee/world_payment_making_2K.png)
-
+https://github.com/user-attachments/assets/97170589-54db-44ca-ba86-f060487e9178
 ## Overview
 
 The CMS Open Payments dataset contains reported payments and transfers of value made by applicable manufacturers and applicable group purchasing organizations (GPOs) to covered recipients.
