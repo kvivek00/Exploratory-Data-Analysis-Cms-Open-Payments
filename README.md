@@ -5,6 +5,7 @@ A large-scale exploratory and statistical analysis of the **CMS Open Payments da
 The project investigates payment distributions, categorical relationships, temporal trends, geographic concentration, statistical associations, hypotheses, and the robustness of the observed findings.
 
 ---
+![Image alt](world_payment_making_2K.png)
 
 ## Overview
 
